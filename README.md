@@ -1,3 +1,4 @@
+```yaml
 name: Daniel Loriguillo Solís
 located_in: Madrid, Spain
 current_job: Senior Developer
@@ -21,3 +22,4 @@ technical_background:
   
 currently_learning: ["Angular upgrade, VuejJS, Solana blockchain"]
 hobbies: ["Cinema", "PaperModel", "Gardening", "Teaching"]
+```
