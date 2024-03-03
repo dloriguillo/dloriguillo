@@ -1,16 +1,23 @@
-### Hi there 👋
+name: Daniel Loriguillo Solís
+located_in: Madrid, Spain
+current_job: Senior Developer
+education:
+  [
+    "Software Engineer by Alcalá de Henares University",
+  ]
+company: [GFT](https://www.gft.com/es/es)
 
-<!--
-**dloriguillo/dloriguillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+fields_of_interests:
+  [
+    "Back Development",
+    "Web Development",
+    "Startups",
+    "Blockchain",
+  ]
+technical_background:
+  [
+    "Full Stack Developer"
+  ]
+  
+currently_learning: ["Angular upgrade, VuejJS, Solana blockchain"]
+hobbies: ["Cinema", "PaperModel", "Gardening", "Teaching"]
